@@ -15,7 +15,7 @@
 
 ## Collegiate Research
 - 📊 Netflix's revenue growth strategies
-- 📊 Correlation between health attributes and Coronary Heart Disease 
+- 🫀 Correlation between health attributes and Coronary Heart Disease 
 
 ## Interests
 - 🧘‍♀️ Yoga enthusiast: Corepower's #1 advocate
