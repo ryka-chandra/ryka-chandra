@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Sophomore studying Computer Science at UPenn
-- 💼 Interned at Bond Technologies, exploring fintech and software engineering
+- 💼 Exploring fintech and software engineering through internships
 - 🌱 Currently learning about data science and AI applications in finance
 - 🤝 Actively involved in tech communities and UPenn club initiatives for equitable education access
 - 📚 Passionate about technology's intersection with finance, health, and education
