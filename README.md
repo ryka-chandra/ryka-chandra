@@ -4,14 +4,14 @@
 - 🎓 Sophomore studying Computer Science at UPenn
 - 💼 Exploring fintech and software engineering through internships
 - 🌱 Currently learning about data science and AI applications in finance
-- 🤝 Actively involved in tech communities and UPenn club initiatives for equitable education access
+- 🤝 Actively involved in UPenn clubs for equitable education access (WiCS, SWE, and more)
 - 📚 Passionate about technology's intersection with finance, health, and education
 
 ## Projects
 - 🐍 **Snake Game in Java**: Implemented dynamic snake movement, score tracking, and JUnit testing.
 - 📷 **Photo Manipulation App**: Developed features for image filtering and editing using Java.
 - 🤖 **TwitterBot**: Built an AI model for generating realistic tweets using a Markov Chain.
-- and more (check out my repos!)
+- and then some (check out my repos!)
 
 ## Collegiate Research
 - 📊 Netflix's revenue growth strategies
