@@ -23,7 +23,7 @@
 - 📖 Reading: Especially interested in tech and finance literature
 
 ## Get in Touch
-- 🔗 LinkedIn: [Ryka Chandra](https://www.linkedin.com/in/rykachandra/)
+- 🔗 LinkedIn: [Ryka Chandra](https://www.linkedin.com/in/ryka-chandra-692612214/)
 - 📧 Email: [ryka@seas.upenn.edu](mailto:ryka@seas.upenn.edu)
 
 Let's connect and discuss tech, finance, and everything in between!
