@@ -1,4 +1,4 @@
-# Hi there, I'm Ryka Chandra! 👋
+# Hi there, I'm Ryka Chandra!
 
 ## About Me
 - 🎓 Sophomore studying Computer Science at UPenn
