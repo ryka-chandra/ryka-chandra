@@ -17,7 +17,7 @@
 - 📊 Netflix's revenue growth strategies
 - 🫀 Correlation between health attributes and Coronary Heart Disease
 
-### Languages and Technologies
+## Languages and Technologies
 
 **Programming Languages**  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
