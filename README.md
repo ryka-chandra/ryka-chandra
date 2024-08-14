@@ -13,9 +13,9 @@
 - 🤖 **TwitterBot**: Built an AI model for generating realistic tweets using a Markov Chain.
 - and then some (check out my repos!)
 
-## Collegiate Research
-- 📊 Netflix's revenue growth strategies
-- 🫀 Correlation between health attributes and Coronary Heart Disease
+## Research Publications
+- 📊 Netflix's revenue growth strategies (with University of Washington)
+- 🫀 Correlation between health attributes and Coronary Heart Disease (with McGill University)
 
 ## Languages and Technologies
 
@@ -48,11 +48,6 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-## Interests
-- 🧘‍♀️ Yoga enthusiast: Corepower's #1 advocate
-- 🍣 Food: I enjoy exploring new places to eat in every area (add me on Beli)
-- 📖 Reading: Especially interested in tech and finance literature
 
 ## Get in Touch
 - 🔗 LinkedIn: [Ryka Chandra](https://www.linkedin.com/in/ryka-chandra-692612214/)
