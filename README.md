@@ -1,7 +1,7 @@
 # Hi there, I'm Ryka Chandra!
 
 ## About Me
-- 🎓 Sophomore studying Computer Science at UPenn
+- 🎓 Studying Computer Science at UPenn
 - 💼 Exploring fintech and software engineering through internships
 - 🌱 Currently learning about data science and AI applications in finance
 - 🤝 Actively involved in UPenn clubs for equitable education access (WiCS, SWE, and more)
