@@ -2,16 +2,7 @@
 
 ## About Me
 - 🎓 Studying Computer Science at UPenn
-- 💼 Exploring fintech and software engineering through internships
-- 🌱 Currently learning about data science and AI applications in finance
 - 🤝 Actively involved in UPenn clubs for equitable education access (WiCS, SWE, and more)
-- 📚 Passionate about technology's intersection with finance, health, and education
-
-## Projects
-- 🐍 **Snake Game in Java**: Implemented dynamic snake movement, score tracking, and JUnit testing.
-- 📷 **Photo Manipulation App**: Developed features for image filtering and editing using Java.
-- 🤖 **TwitterBot**: Built an AI model for generating realistic tweets using a Markov Chain.
-- and then some (check out my repos!)
 
 ## Research Publications
 - 📊 Netflix's revenue growth strategies (with University of Washington)
@@ -49,5 +40,3 @@
 ## Get in Touch
 - 🔗 LinkedIn: [Ryka Chandra](https://www.linkedin.com/in/ryka-chandra-692612214/)
 - 📧 Email: [ryka@seas.upenn.edu](mailto:ryka@seas.upenn.edu)
-
-Let's connect and discuss tech, finance, and everything in between!
